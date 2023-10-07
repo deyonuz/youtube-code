@@ -17,7 +17,7 @@ import PetsOutlinedIcon from '@mui/icons-material/PetsOutlined';
 export const categories = [
     { name: 'New', icon: <HomeIcon />, },
     { name: 'Samar Badriddinov', icon: <CodeIcon />, },
-    { name: 'Javlonbek Nematov', icon: <CodeIcon />, },
+    { name: 'DeyonDev', icon: <CodeIcon />, },
     { name: "Najot Ta'lim", icon: <CodeIcon />, },
     { name: 'Coding', icon: <CodeIcon />, },
     { name: 'Anime', icon: <PetsOutlinedIcon />, },
